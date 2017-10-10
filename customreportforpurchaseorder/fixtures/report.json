@@ -16,6 +16,26 @@
   "ref_doctype": "Stock Ledger Entry", 
   "report_name": "Items To Be Requested From Stock Requistion", 
   "report_type": "Script Report", 
+  "permissions": [
+  {
+   "amend": 0, 
+   "apply_user_permissions": 0, 
+   "cancel": 0, 
+   "create": 1, 
+   "delete": 1, 
+   "email": 0, 
+   "export": 0, 
+   "import": 0, 
+   "permlevel": 0, 
+   "print": 0, 
+   "read": 1, 
+   "report": 0, 
+   "role": "System Manager", 
+   "set_user_permissions": 0, 
+   "submit": 0, 
+   "write": 1
+  }
+ ], 
   "roles": [
    {
     "role": "Stock User"
