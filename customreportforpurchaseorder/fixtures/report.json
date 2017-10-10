@@ -15,16 +15,7 @@
   "query": null, 
   "ref_doctype": "Stock Ledger Entry", 
   "report_name": "Items To Be Requested From Stock Requistion", 
-  "report_type": "Script Report", 
-  "permissions": [
-  {
-   "create": 1, 
-   "delete": 1, 
-   "read": 1, 
-   "report": 1, 
-   "write": 1
-  }
- ], 
+  "report_type": "Script Report",  
   "roles": [
    {
     "role": "Stock User"
