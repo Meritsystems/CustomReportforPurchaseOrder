@@ -1,6 +1,7 @@
 [
  {
   "docstatus": 1, 
+  "owner": "Administrator", 
   "doctype": "Custom Script", 
   "dt": "Pre Purchase Order", 
   "modified": "2017-10-02 21:01:58.145075", 
