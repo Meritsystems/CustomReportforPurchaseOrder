@@ -21,7 +21,8 @@ fixtures = [
     {
     "doctype": "Custom Script",
             "filters": { "name" : ["=", "Pre Purchase Order-Client"] }
-    },"Custom Field"
+    },
+   {"doctype":"Custom Field"}
    
           ]
 
